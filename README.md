@@ -1,5 +1,5 @@
 - 👋 Hi, i'm Robson
-- 👀 I'm currently interested in Observability
+- 👀 I'm currently interested in DevOps + Observability
 - 🔭 I’m currently working on AWS / Azure + Elastic Stack
 - 🌱 I’m currently learning Python + Golang
 - 👯 I’m looking to collaborate on TF Providers
